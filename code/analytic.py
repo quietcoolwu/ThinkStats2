@@ -12,9 +12,9 @@ import math
 import numpy as np
 import pandas
 
-import nsfg
-import thinkplot
-import thinkstats2
+import  nsfg
+import  thinkplot
+import  thinkstats2
 
 
 def ParetoMedian(xmin, alpha):
